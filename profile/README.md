@@ -1,4 +1,4 @@
-# CapProjet-Undrive
+# CapProjet Undrive
 
 Plateforme d'éco-mobilité gamifiée. L'application détecte les trajets bas carbone, calcule les économies de CO₂ associées et les convertit en jetons utilisables chez des partenaires locaux.
 
